@@ -1,0 +1,20 @@
+📊 Nombre d'entités par label
+
+posologie_dosage_quantité: 16457
+date_de_consultation: 9126
+age: 8871
+symptômes_signes_cliniques: 7285
+pathologies_diagnostics: 6368
+traitements: 6222
+posologie_fréquence: 5032
+antécédents: 4283
+contexte_de_vie: 4034
+allergies_et_hypersensibilités: 1999
+médicaments_molécules: 1296
+sexe_du_patient: 507
+dispositifs_médicaux: 374
+pathologies_diagnostics_antécédents: 342
+administration: 335
+groupe_sanguin_du_patient: 148
+pathologies_diagnostics_actuels: 45
+médicaments_molécules_prescrits: 1
